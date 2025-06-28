@@ -14,7 +14,7 @@ Welcome to my collection of **Multi-class-classification** projects. This reposi
 | Project Name              | Description                                      |
 |---------------------------|--------------------------------------------------|
 | **Metals Classification**     | I perform Fluorescence-Based Metal Classification via Wavelength Excitation using RGB coordinates as features. |
-| **Alcoholic drinks Classification** | I perform de alcoholic drinks classification. |
+| **Alcoholic drinks Classification** | I perform the alcoholic drinks classification. |
 
 
 ---
